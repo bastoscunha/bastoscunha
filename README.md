@@ -29,4 +29,6 @@
 
   ## 📫 **Como entrar em contato comigo** - 💌 Email: [bastoscunha@hotmail.com](mailto:bastoscunha@hotmail.com)
 
-  --- 🎉 Obrigado por visitar meu perfil!
+  ---
+
+  🎉 Obrigado por visitar meu perfil!
